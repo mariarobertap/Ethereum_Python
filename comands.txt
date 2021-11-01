@@ -1,0 +1,4 @@
+truffle compile - Compile the program
+truffle migrate - Deploy the smartContract
+truffle migrate --reset - Deploy and overwrite the smartContract
+truffle console - Go to truffle console and acess the functions of the smartContract
